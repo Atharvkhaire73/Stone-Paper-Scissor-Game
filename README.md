@@ -1,0 +1,2 @@
+# Stone-Paper-Scissor-Game
+Developed a simple and interactive stone-paper-scissors game using JavaScript, HTML, and CSS. The game allows users to play against a computer opponent with randomly generated choices. Implemented logic for determining the winner based on user input and designed a clean and intuitive user interface. This project demonstrates proficiency in front-end development, DOM manipulation, event handling, and basic game logic.
