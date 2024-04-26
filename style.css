@@ -1,0 +1,87 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    height: 60px;
+    width: 100%;
+    background-color: #003566;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.main
+{
+    display: flex;
+    justify-content: center;
+}
+.contentbox
+{
+    height: 130px;
+    width: 130px;
+    background-size: cover;
+    border-radius: 50%;
+    margin:120px 30px 100px 30px
+}
+#stone
+{
+    background-image: url("\hand-fist-solid.svg");
+}
+#paper
+{
+    background-image: url("\hand-solid.svg");
+}
+#scissors
+{
+    background-image: url("\hand-scissors-solid.svg");
+}
+.score-board
+{
+    display: flex;
+    justify-content: center;
+    font-size:25px
+}
+.score
+{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+}
+p
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px 0 10px;
+    color: black;
+}
+.msg-box
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 100%;
+    font-size: 35px;
+    margin: 60px 0 20px 0;
+}
+#msg
+{
+    background-color: #003566;
+    border-radius: 10px;
+    height: 60px;
+    width: 350px;    
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    color: white;
+}
+#msg p 
+{
+    color: white;
+}
